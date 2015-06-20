@@ -119,7 +119,7 @@
                                                                 <field name="OBJECT">RECT</field>
                                                                 <next>
                                                                   <block type="oled_color" id="364">
-                                                                    <field name="OBJECT">BLACK</field>
+                                                                    <field name="OBJECT">GREEN</field>
                                                                     <next>
                                                                       <block type="oled_setcursor" id="377" inline="true">
                                                                         <value name="STARTX">

@@ -1,0 +1,10 @@
+{
+    "name": "Drawing1",
+    "version": "1.0.0",
+    "manifest_version": 1,
+    "project_type": "application",
+    "executable_type": "scratch",
+    "executable": "Drawing1.xml",
+    "author": "Raysrivastav",
+    "minimum_firmware_version": 42
+}

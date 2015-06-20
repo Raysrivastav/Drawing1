@@ -1,5 +1,5 @@
 <xml xmlns="http://www.w3.org/1999/xhtml">
-  <block type="oled_cleardisplay" id="57" x="19" y="25">
+  <block type="oled_cleardisplay" id="57" x="-27" y="1">
     <next>
       <block type="oled_color" id="88">
         <field name="OBJECT">GREEN</field>
@@ -84,6 +84,11 @@
                                                 <field name="NUM">24</field>
                                               </block>
                                             </value>
+                                            <next>
+                                              <block type="oled_linerect" id="317">
+                                                <field name="OBJECT">RECT</field>
+                                              </block>
+                                            </next>
                                           </block>
                                         </next>
                                       </block>
